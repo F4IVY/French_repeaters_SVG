@@ -6,13 +6,14 @@
 <text x="198" y="30" style="text-anchor:middle;font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >F5ZIU</text>
 <text x="1" y="60" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >LA HARMOYE(22)</text>
 <text x="1" y="75" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Lat: 48.364322916667 Lon: -3.0098958333334</text>
-<text x="1" y="105" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 432,6500 MHz Rx: 145,4625 MHz</text>
-<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > CTCSS: 71,9 Hz Type: analogique Mode: FM</text>
-<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="140" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 145,4625 MHz Rx: 432,6500 MHz</text>
-<text x="1" y="155" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > CTCSS: 71,9 Hz Type: analogique Mode: FM</text>
-<text x="1" y="170" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >15/04/2021</text>
+<text x="1" y="90" >Locator: IN88LI87TK</text>
+<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 145,4625 MHz Rx: 432,6500 MHz</text>
+<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > CTCSS: 71,9 Hz Type: analogique Mode: FM</text>
+<text x="1" y="150" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="155" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 432,6500 MHz Rx: 145,4625 MHz</text>
+<text x="1" y="170" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > CTCSS: 71,9 Hz Type: analogique Mode: FM</text>
+<text x="1" y="185" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >18/04/2021</text>
 <line x1="0" y1="0" x2="0" y2="280" stroke-width="2" stroke="black" />
 <line x1="0" y1="0" x2="397" y2="0" stroke-width="2" stroke="black" />
 <line x1="397" y1="0" x2="397" y2="280" stroke-width="2" stroke="black" />

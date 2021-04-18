@@ -6,13 +6,14 @@
 <text x="198" y="30" style="text-anchor:middle;font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >F5ZIC</text>
 <text x="1" y="60" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >MITTAINVILLIERS(28)</text>
 <text x="1" y="75" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Lat: 48.48828125 Lon: 1.3293402777778</text>
-<text x="1" y="105" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,4375 MHz Rx: 431,8375 MHz Offset: -7,600 MHz</text>
-<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DMR</text>
-<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="140" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,4375 MHz Rx: 431,8375 MHz Offset: -7,600 MHz</text>
-<text x="1" y="155" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DSTAR Multimode: Multimode</text>
-<text x="1" y="170" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >15/04/2021</text>
+<text x="1" y="90" >Locator: JN08PL97ME</text>
+<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,4375 MHz Rx: 431,8375 MHz Offset: -7,600 MHz</text>
+<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DMR</text>
+<text x="1" y="150" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="155" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,4375 MHz Rx: 431,8375 MHz Offset: -7,600 MHz</text>
+<text x="1" y="170" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DSTAR Multimode: Multimode</text>
+<text x="1" y="185" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >18/04/2021</text>
 <line x1="0" y1="0" x2="0" y2="280" stroke-width="2" stroke="black" />
 <line x1="0" y1="0" x2="397" y2="0" stroke-width="2" stroke="black" />
 <line x1="397" y1="0" x2="397" y2="280" stroke-width="2" stroke="black" />

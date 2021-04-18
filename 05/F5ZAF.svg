@@ -6,10 +6,11 @@
 <text x="198" y="30" style="text-anchor:middle;font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >F5ZAF</text>
 <text x="1" y="60" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >BRIANCON(05)</text>
 <text x="1" y="75" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Lat: 44.890538194444 Lon: 6.7112847222222</text>
-<text x="1" y="105" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,1250 MHz Rx: 431,7250 MHz Offset: 1,600 MHz</text>
-<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: analogique Mode: FM</text>
-<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >15/04/2021</text>
+<text x="1" y="90" >Locator: JN34IV53IR</text>
+<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,1250 MHz Rx: 431,7250 MHz Offset: 1,600 MHz</text>
+<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: analogique Mode: FM</text>
+<text x="1" y="150" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >18/04/2021</text>
 <line x1="0" y1="0" x2="0" y2="280" stroke-width="2" stroke="black" />
 <line x1="0" y1="0" x2="397" y2="0" stroke-width="2" stroke="black" />
 <line x1="397" y1="0" x2="397" y2="280" stroke-width="2" stroke="black" />
