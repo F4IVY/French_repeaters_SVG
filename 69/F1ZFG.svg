@@ -6,25 +6,26 @@
 <text x="198" y="30" style="text-anchor:middle;font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >F1ZFG</text>
 <text x="1" y="60" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >ST CYR AU MT. D OR(69)</text>
 <text x="1" y="75" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Lat: 45.823177083333 Lon: 4.8203125</text>
-<text x="1" y="105" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,7875 MHz Rx: 430,7875 MHz</text>
-<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: Tetra Multimode: Multimode</text>
-<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="140" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,9625 MHz Rx: 430,5625 MHz Offset: -9,400 MHz</text>
-<text x="1" y="155" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DSTAR</text>
-<text x="1" y="170" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="175" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,8000 MHz Rx: 430,4000 MHz Offset: -9,400 MHz</text>
-<text x="1" y="190" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DMR Multimode: Multimode</text>
-<text x="1" y="205" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="210" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 145,3625 MHz Rx: 145,3625 MHz</text>
-<text x="1" y="225" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DSTAR Multimode: Multimode</text>
-<text x="1" y="240" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="245" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,9750 MHz Rx: 430,3750 MHz Offset: -9,600 MHz</text>
-<text x="1" y="260" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: C4FM</text>
-<text x="1" y="275" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="280" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 145,6000 MHz Rx: 145,0000 MHz Offset: -600 kHz</text>
-<text x="1" y="295" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: analogique Mode: FM</text>
-<text x="1" y="310" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >15/04/2021</text>
+<text x="1" y="90" >Locator: JN25JT87KN</text>
+<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,7875 MHz Rx: 430,7875 MHz</text>
+<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: Tetra Multimode: Multimode</text>
+<text x="1" y="150" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="155" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,9625 MHz Rx: 430,5625 MHz Offset: -9,400 MHz</text>
+<text x="1" y="170" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DSTAR</text>
+<text x="1" y="185" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="190" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,8000 MHz Rx: 430,4000 MHz Offset: -9,400 MHz</text>
+<text x="1" y="205" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DMR Multimode: Multimode</text>
+<text x="1" y="220" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="225" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 145,3625 MHz Rx: 145,3625 MHz</text>
+<text x="1" y="240" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DSTAR Multimode: Multimode</text>
+<text x="1" y="255" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="260" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 439,9750 MHz Rx: 430,3750 MHz Offset: -9,600 MHz</text>
+<text x="1" y="275" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: C4FM</text>
+<text x="1" y="290" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="295" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 145,6000 MHz Rx: 145,0000 MHz Offset: -600 kHz</text>
+<text x="1" y="310" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: analogique Mode: FM</text>
+<text x="1" y="325" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >18/04/2021</text>
 <line x1="0" y1="0" x2="0" y2="280" stroke-width="2" stroke="black" />
 <line x1="0" y1="0" x2="397" y2="0" stroke-width="2" stroke="black" />
 <line x1="397" y1="0" x2="397" y2="280" stroke-width="2" stroke="black" />

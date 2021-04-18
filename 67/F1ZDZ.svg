@@ -6,19 +6,20 @@
 <text x="198" y="30" style="text-anchor:middle;font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >F1ZDZ</text>
 <text x="1" y="60" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:30px;" >HAGUENAU(67)</text>
 <text x="1" y="75" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Lat: 48.821961805556 Lon: 7.8032986111111</text>
-<text x="1" y="105" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,3750 MHz Rx: 439,7750 MHz Offset: 9,400 MHz</text>
-<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DMR Multimode: Multimode</text>
-<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="140" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,3750 MHz Rx: 439,7750 MHz Offset: 9,400 MHz</text>
-<text x="1" y="155" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DSTAR Multimode: Multimode</text>
-<text x="1" y="170" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="175" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 144,8000 MHz Rx: 144,8000 MHz</text>
-<text x="1" y="190" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: APRS</text>
-<text x="1" y="205" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="1" y="210" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,3750 MHz Rx: 439,7750 MHz Offset: 9,400 MHz</text>
-<text x="1" y="225" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: C4FM Multimode: Multimode</text>
-<text x="1" y="240" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
-<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >15/04/2021</text>
+<text x="1" y="90" >Locator: JN38VT67JG</text>
+<text x="1" y="120" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,3750 MHz Rx: 439,7750 MHz Offset: 9,400 MHz</text>
+<text x="1" y="135" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DMR Multimode: Multimode</text>
+<text x="1" y="150" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="155" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,3750 MHz Rx: 439,7750 MHz Offset: 9,400 MHz</text>
+<text x="1" y="170" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: C4FM Multimode: Multimode</text>
+<text x="1" y="185" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="190" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 430,3750 MHz Rx: 439,7750 MHz Offset: 9,400 MHz</text>
+<text x="1" y="205" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: DSTAR Multimode: Multimode</text>
+<text x="1" y="220" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="1" y="225" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >Tx: 144,8000 MHz Rx: 144,8000 MHz</text>
+<text x="1" y="240" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" > Type: numérique Mode: APRS</text>
+<text x="1" y="255" style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:5px;" >  </text>
+<text x="397" y="279" style="text-anchor:end;font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;" >18/04/2021</text>
 <line x1="0" y1="0" x2="0" y2="280" stroke-width="2" stroke="black" />
 <line x1="0" y1="0" x2="397" y2="0" stroke-width="2" stroke="black" />
 <line x1="397" y1="0" x2="397" y2="280" stroke-width="2" stroke="black" />
